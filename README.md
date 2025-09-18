@@ -64,7 +64,7 @@ All references to their publications are for informational and comparative purpo
 
 For inquiries or to schedule an assessment:
 
-**Your Company Name**  
-Email: `security@example.com`  
-Website: [https://yourcompany.com](https://yourcompany.com)
+**Kodiak Shield**  
+Email: `BrenesRM@Yahoo.com`  
+Website: [https://KodiakShield.com](https://KodiakShield.com)
 
