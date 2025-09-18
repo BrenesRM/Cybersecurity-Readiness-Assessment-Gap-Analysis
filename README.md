@@ -1,4 +1,5 @@
 # Cybersecurity Readiness Assessment
+<img width="1536" height="1024" alt="CSET" src="https://github.com/user-attachments/assets/6c52b8b7-dab1-4173-9706-b3a7d5e8c418" />
 
 Professional, standards-based assessments to help organizations identify
 cybersecurity gaps, prioritize remediation, and strengthen their overall security posture.
